@@ -1,4 +1,4 @@
-// File: C:\Users\trong\Documents\Github\school-management-dashboard\src\app\(dashboard)\admin\page.tsx
+// File: /home/maithetranh/school-management-dashboard/src/app/(dashboard)/admin/page.tsx
 import * as entry from '../../../../../src/app/(dashboard)/admin/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

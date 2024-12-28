@@ -1,4 +1,5 @@
 {
-  "/_not-found/page": "app/_not-found/page.js",
+  "/(dashboard)/student/page": "app/(dashboard)/student/page.js",
+  "/(dashboard)/parent/page": "app/(dashboard)/parent/page.js",
   "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js"
 }

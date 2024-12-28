@@ -17,10 +17,23 @@
       "static/css/app/layout.css",
       "static/chunks/app/layout.js"
     ],
-    "/_not-found/page": [
+    "/(dashboard)/teacher/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/_not-found/page.js"
+      "static/css/app/(dashboard)/teacher/page.css",
+      "static/chunks/app/(dashboard)/teacher/page.js"
+    ],
+    "/(dashboard)/student/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dashboard)/student/page.css",
+      "static/chunks/app/(dashboard)/student/page.js"
+    ],
+    "/(dashboard)/parent/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/(dashboard)/parent/page.css",
+      "static/chunks/app/(dashboard)/parent/page.js"
     ]
   }
 }
